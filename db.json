@@ -1,5 +1,5 @@
 [
-  {
+  users:[{
     "id": 1,
     "name": "Leanne Graham",
     "email": "sincere@april.biz",
@@ -30,5 +30,5 @@
     "company": {
       "name": "Robel-Medhurst"
     }
-  }
+  }]
 ]
