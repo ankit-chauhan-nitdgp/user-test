@@ -1,36 +1,36 @@
-[
- "users": [
-   {
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "company": {
-      "name": "Romaguera-Crona"
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "email": "sincere@april.biz",
+      "company": {
+        "name": "Romaguera-Crona"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "email": "shanna@melissa.tv",
+      "company": {
+        "name": "Deckow-Crist"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "email": "nathan@yesenia.net",
+      "company": {
+        "name": "Romaguera-Jacobson"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "email": "julianne.oconner@kory.org",
+      "company": {
+        "name": "Robel-Medhurst"
+      }
     }
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "shanna@melissa.tv",
-    "company": {
-      "name": "Deckow-Crist"
-    }
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "nathan@yesenia.net",
-    "company": {
-      "name": "Romaguera-Jacobson"
-    }
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "julianne.oconner@kory.org",
-    "company": {
-      "name": "Robel-Medhurst"
-    }
-  }
- ],
-]
+  ]
+}
